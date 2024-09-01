@@ -1,5 +1,5 @@
 ### Olá eu sou o Luis Henrique 🤓
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luiis.png)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luisinho.png)
 
 ![luisinho GitHub stats](https://github-readme-stats.vercel.app/api?username=luisinho&show_icons=true&theme=dark)
 
